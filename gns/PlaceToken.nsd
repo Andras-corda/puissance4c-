@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24" text="&#34;PlaceToken&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<for text="&#34;pour row &#60;- 5 à &#62;= 0 , pas = -1&#34;" comment="&#34;&#34;" counterVar="row" startValue="5" endValue="&#62;= 0" stepConst="-1" reliable="true" color="ffffff">
+			<qFor>
+				<alternative text="&#34;(board[row, column] == ' ')&#34;" comment="&#34;&#34;" color="ffffff">
+					<qTrue>
+						<instruction text="&#34;board[row, column] = currentPlayer&#34;,&#34;return row&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+					</qTrue>
+					<qFalse>
+					</qFalse>
+				</alternative>
+			</qFor>
+		</for>
+	</children>
+</root>

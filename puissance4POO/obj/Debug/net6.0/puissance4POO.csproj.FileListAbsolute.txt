@@ -1,0 +1,14 @@
+C:\Users\Andra\Desktop\c#\puissance4POO\bin\Debug\net6.0\puissance4POO.exe
+C:\Users\Andra\Desktop\c#\puissance4POO\bin\Debug\net6.0\puissance4POO.deps.json
+C:\Users\Andra\Desktop\c#\puissance4POO\bin\Debug\net6.0\puissance4POO.runtimeconfig.json
+C:\Users\Andra\Desktop\c#\puissance4POO\bin\Debug\net6.0\puissance4POO.dll
+C:\Users\Andra\Desktop\c#\puissance4POO\bin\Debug\net6.0\puissance4POO.pdb
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.AssemblyInfoInputs.cache
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.AssemblyInfo.cs
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.csproj.CoreCompileInputs.cache
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.dll
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\refint\puissance4POO.dll
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.pdb
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\puissance4POO.genruntimeconfig.cache
+C:\Users\Andra\Desktop\c#\puissance4POO\obj\Debug\net6.0\ref\puissance4POO.dll
